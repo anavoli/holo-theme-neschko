@@ -1,4 +1,4 @@
-import * as React from "react"
+chkoimport * as React from "react"
 import Layout from "../components/layout"
 
 // Components
@@ -12,7 +12,7 @@ const IndexPage = () => (
   <div className="h-auto w-screen">
     <Layout>
       <Seo
-        title="Holo - Gatsby Theme"
+        title="HoloNeschko - Gatsby Theme"
         description="Holo is a visually striking and highly customizable open source theme built on the powerful Gatsby framework and integrated with the versatile Decap CMS."
       ></Seo>
       <Header></Header>

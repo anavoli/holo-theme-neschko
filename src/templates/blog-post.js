@@ -1,4 +1,4 @@
-import React from "react"
+-import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { graphql } from "gatsby"
@@ -65,7 +65,7 @@ const BlogPost = props => {
     <Layout>
       <Seo
         title="Blog"
-        description="We have been providing professional repair services in the city since 1993 ,and we have helped thousands of local car owners to restore their vehicles."
+        description="neško-We have been providing professional repair services in the city since 1993 ,and we have helped thousands of local car owners to restore their vehicles."
       />
       <main className="pt-8 pb-16 lg:pt-16 lg:pb-24">
         <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">

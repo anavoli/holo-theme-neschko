@@ -115,7 +115,7 @@ const Navbar = () => {
               className="text-black opacity-50 hover:opacity-100 px-3 py-3 rounded-md text-m font-medium font-montserrat"
               href="/contact"
             >
-              Contact
+              Contact-Kontakt
             </a>
             <div className="items-center mt-20 py-3">
               <a

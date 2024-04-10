@@ -117,10 +117,10 @@ const FeatureSection = () => {
 
           <div className="w-4/6 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-4/6">
             <h2 className="text-white text-4xl">
-              Start building amazing web experiences
+              Start building ++++++++++++amazing web experiences
             </h2>
             <p className="mt-10 text-white opacity-70">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
+              Lorem +++++++++++++++++++Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
               type and scrambled it to make a type specimen book. It has
@@ -163,7 +163,7 @@ const FeatureSection = () => {
           Discover and connect
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
+          Lorem +++++++++++++-----------++++++++++++Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
           scrambled it to make a type specimen book. It has survived not only

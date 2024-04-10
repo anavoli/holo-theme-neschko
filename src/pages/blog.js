@@ -1,4 +1,4 @@
-import React from "react"
+škoimport React from "react"
 import BlogHeader from "../components/Blog/blogHeader"
 import BlogsContainer from "../components/Blog/blogsContainer"
 import Layout from "../components/layout"
@@ -13,7 +13,7 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <Seo
-        title="Holo - Blog"
+        title="HoloNeško - Blog"
         description="Holo is a visually striking and highly customizable open source theme built on the powerful Gatsby framework and integrated with the versatile Decap CMS"
       ></Seo>
       <BlogHeader post={HeaderPost} />

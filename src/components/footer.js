@@ -25,7 +25,7 @@ const Footer = () => {
               <div className="text-black font-bold block-inline">
                 <p>
                   <a className="text-black font-bold block-inline" href="/">
-                    Holo
+                    Holo neško
                   </a>
 
                   <a
@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="place-self-end self-center xxs:hidden lg:block">
               <ul className="text-xl font-montserrat font-medium">
                 <li>
-                  <Link to="/">Home</Link>
+                  <Link to="/">Hoooooooooooooooome</Link>
                 </li>
                 <li>
                   <Link to="/about">About</Link>
